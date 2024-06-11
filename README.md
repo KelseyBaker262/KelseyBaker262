@@ -3,7 +3,8 @@
 <h1 align="center">About Me:<h1/>
 
 #### 💻 A School of Code bootcamper from cohort 16
-#### 🌱 Lover of being challenged and fuelled by driving positive change
+#### 🌻 Fuelled by driving positive change
+#### 🌱 Lover of being challenged
 #### 🧠 Currently improving my JavaScript, Typescript, React, Next.js and UX/UI skills
 #### ✅ 100 days of code challenge complete!
 #### 🗣️ Addicted to podcasts
