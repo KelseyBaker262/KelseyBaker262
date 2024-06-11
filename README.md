@@ -2,19 +2,15 @@
 
 <h1 align="center">About Me:<h1/>
 
-<div align="center">
-
-##### 💻 A School of Code bootcamper from cohort 16
-##### 🌱 Lover of being challenged and fuelled by driving positive change
-##### 🧠 Currently improving my JavaScript, Typescript, React, Next.js and UX/UI skills
-##### ✅ 100 days of code challenge complete!
-##### 🗣️ Addicted to podcasts
-##### 🌎 Fun fact: I solo backpacked Central America for 7 months
-
-</div>
+#### 💻 A School of Code bootcamper from cohort 16
+#### 🌱 Lover of being challenged and fuelled by driving positive change
+#### 🧠 Currently improving my JavaScript, Typescript, React, Next.js and UX/UI skills
+#### ✅ 100 days of code challenge complete!
+#### 🗣️ Addicted to podcasts
+#### 🌎 Fun fact: I solo backpacked Central America for 7 months
 
 
-<h2 align="center">Tools:<h2/>
+<h1 align="center">Tools:<h1/>
 
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Languages: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Front-End: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Back-End:</h4>
 <p align="center">
