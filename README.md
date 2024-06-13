@@ -4,15 +4,15 @@
     
 #####
 
-I am a full stack developer and School of Code Alumni. With a background in residential childcare, I’ve cultivated a passion for helping others and thrive in collaborative environments that drive positive change. Through travel and hearing the stories of others, I realigned my aspirations and began to learn how to code
+I am a full stack developer and <a href="https://www.schoolofcode.co.uk/">School of Code</a> Alumni. With a background in residential childcare, I’ve cultivated a passion for helping others and thrive in collaborative environments that drive positive change. Through travel and hearing the stories of others, I realigned my aspirations and began to learn how to code
 because I felt inspired by the possibility to leverage technology for positive change. 
 
-<br>I fell in love with the creativity and challenging problem-solving that coding presents. To propel my learning, I enrolled in the School of Code, a software development bootcamp. Currently, I'm self-motivated, enthusiastic and continuing to expand my skills by engaging in exciting projects.
+<br>I fell in love with the creativity and challenging problem-solving that coding presents. To propel my learning, I enrolled in the School of Code, a software development bootcamp. Currently, I'm self-motivated, enthusiastic and continuing to expand my skills by working on a community club scheduling app for a real-world basketball club, a travel carbon emission calculator and a photography e-commerce site.
 
-#### 🧠 Currently improving my JavaScript, Typescript, React, Next.js and UX/UI skills
-#### ✅ 100 days of code challenge complete!
-#### 🗣️ Addicted to podcasts
-#### 🌎 Fun fact: I solo backpacked Central America for 7 months
+ 🧠 Currently improving my JavaScript, Typescript, React, Next.js and UX/UI skills
+ ✅ 100 days of code challenge complete!
+ 🗣️ Addicted to podcasts
+ 🌎 Fun fact: I solo backpacked Central America for 7 months
 
 <h1 align="center">Tools:<h1/>
 
@@ -47,11 +47,12 @@ because I felt inspired by the possibility to leverage technology for positive c
 
 #####
 
-| Project                | Repo                                                    | Page                                                      | Tech Stack                       |
-| ---------------------- | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
-| Community Club Scheduling App - <br> Kings Heath Clangers              | [Github](https://github.com/lazycloud0/khc.git)      | [Demo](https://www.kingsheathclangers.me/)                       | Next.js, React, JavaScript, Supabase, Play Wright, Husky, Snyk, Vercel, Jira, Notion, GitHub Flow         |
-| Eco-Leap - In development      | [Github](https://github.com/KelseyBaker262/eco-leap.git)  | [Demo](https://eco-leap.vercel.app/)        | Vite, React, TypeScript, Sass, Husky, Snyk, Vercel, GitHub flow                          |
-| Lost In Nostalgia - <br> Photography E-commerce site-<br> In development | [Github](https://github.com/KelseyBaker262/photography-e-commerce-site.git)        | [Demo]()                                                  | Next.js, JavaScript |
-| Fireplace Palace - <br> SoC Workshop| [Github](https://github.com/SchoolOfCode/bc16-w7d3-workshop-nextjs-boilerplate-week7-room15.git)         | [Demo]()                                                  | Next.js, React, JavaScript |
-| Dad Jokes     | [Github](https://github.com/SchoolOfCode/bc16-w10-typescript-KelseyBaker262.git)  | [Demo]()      | HTML, CSS                        |
-| AirBnb Dupe Task               | [Github](https://github.com/KelseyBaker262/Airbnb-dupe-task.git)       | [Demo]()           | JavaScript                       |
+| Project                                       | Repo                                                               | Page                                     | Description                                                                                        | Tech Stack                       |
+| --------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------- | -------------------------------------------------------------------------------------------------- | -------------------------------- |
+| Community Club Scheduling App | [Github](https://github.com/lazycloud0/khc.git)                     | [Demo](https://www.kingsheathclangers.me/) | A scheduling application for Kings Heath Clangers, a community club based in Birmingham, facilitating event management and member coordination. | Next.js, React, JavaScript, Supabase, Play Wright, Husky, Snyk, Vercel, Jira, Notion, GitHub Flow         |
+| Eco-Leap - In development                     | [Github](https://github.com/KelseyBaker262/eco-leap.git)           | [Demo](https://eco-leap.vercel.app/)     | A web application aimed at promoting eco-friendly practices and sustainability.                     | Vite, React, TypeScript, Sass, Husky, Snyk, Vercel, GitHub flow                          |
+| Lost In Nostalgia - Photography E-commerce site- In development | [Github](https://github.com/KelseyBaker262/photography-e-commerce-site.git) | [Demo]()                                 | An e-commerce platform for selling photography prints.                                    | Next.js, JavaScript |
+| Fireplace Palace - SoC Workshop               | [Github](https://github.com/SchoolOfCode/bc16-w7d3-workshop-nextjs-boilerplate-week7-room15.git) | [Demo]()                                 | A School of Code workshop project for creating a website for a fictional fireplace store.                        | Next.js, React, JavaScript |
+| Dad Jokes                                     | [Github](https://github.com/SchoolOfCode/bc16-w10-typescript-KelseyBaker262.git) | [Demo]()                                 | A simple web app that displays random dad jokes for entertainment.                                | HTML, CSS                        |
+| AirBnb Dupe Task                              | [Github](https://github.com/KelseyBaker262/Airbnb-dupe-task.git)   | [Demo]()                                 | A task to replicate the core features of the AirBnb website.                                        | JavaScript                       |
+
