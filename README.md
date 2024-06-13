@@ -2,7 +2,12 @@
 
 <h1 align="center">About Me:<h1/>
     
-I am a full stack developer and School of Code Alumni. With a background in residential childcare, I’ve cultivated a passion for helping others and thrive in collaborative environments that drive positive change. Feeling inspired regarding the ability to leverage technology for positive change through travel and others, I realigned my aspirations and began to learn how to code. I fell in love with the creativity and challenging problem-solving that coding presents. To propel my learning, I enrolled in the School of Code, a software development bootcamp. Currently, I'm self-motivated, enthusiastic and continuing to expand my skills by engaging in exciting projects.
+#####
+
+I am a full stack developer and School of Code Alumni. With a background in residential childcare, I’ve cultivated a passion for helping others and thrive in collaborative environments that drive positive change. Through travel and hearing the stories of others, I realigned my aspirations and began to learn how to code
+because I felt inspired by the possibility to leverage technology for positive change. 
+
+<br>I fell in love with the creativity and challenging problem-solving that coding presents. To propel my learning, I enrolled in the School of Code, a software development bootcamp. Currently, I'm self-motivated, enthusiastic and continuing to expand my skills by engaging in exciting projects.
 
 #### 🧠 Currently improving my JavaScript, Typescript, React, Next.js and UX/UI skills
 #### ✅ 100 days of code challenge complete!
