@@ -1,15 +1,13 @@
-![image](https://github.com/KelseyBaker262/KelseyBaker262/assets/149110361/f0f76ee0-8e79-4cbe-9c94-e84486b62353)
+![image](https://github.com/KelseyBaker262/KelseyBaker262/assets/149110361/f0673f9e-f263-42e2-92b6-7360916c928f)
 
 <h1 align="center">About Me:<h1/>
+    
+I am a full stack developer and School of Code Alumni. With a background in residential childcare, I’ve cultivated a passion for helping others and thrive in collaborative environments that drive positive change. Feeling inspired regarding the ability to leverage technology for positive change through travel and others, I realigned my aspirations and began to learn how to code. I fell in love with the creativity and challenging problem-solving that coding presents. To propel my learning, I enrolled in the School of Code, a software development bootcamp. Currently, I'm self-motivated, enthusiastic and continuing to expand my skills by engaging in exciting projects.
 
-#### 💻 A School of Code bootcamper from cohort 16
-#### 🌻 Fuelled by driving positive change
-#### 🌱 Lover of being challenged
 #### 🧠 Currently improving my JavaScript, Typescript, React, Next.js and UX/UI skills
 #### ✅ 100 days of code challenge complete!
 #### 🗣️ Addicted to podcasts
 #### 🌎 Fun fact: I solo backpacked Central America for 7 months
-
 
 <h1 align="center">Tools:<h1/>
 
@@ -39,6 +37,19 @@
     <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
 </p>
 
+<br>
+<h1 align="center">Projects<h1/>
+
+| Project                | Repo                                                    | Page                                                      | Tech Stack                       |
+| ---------------------- | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
+| Portfolio Website               | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next.js, React, TypeScript, Tailwind CSS, Sentry        |
+| Eslando - Digital Product Passport      | [Github](https://github.com/INFINITYX00/eslando)  | [Demo](https://eslando.vercel.app/?product=0)        | Next.js, React, JavaScript, Testing Libraries                          |
+| NexID - Digital Product Passport (IN DEVELOPMENT)| [Github](https://github.com/INFINITYX00/NexID)        | [Demo]()                                                  | Next.js, React, JavaScript, SQL, Sentry |
+| Sprout - Parenthood App (IN DEVELOPMENT)| [Github](https://github.com/INFINITYX00/Sprout)         | [Demo]()                                                  | Next.js, React, JavaScript, SQL, Testing Libraries |
+| Airbnb Mobile Site     | [Github](https://github.com/INFINITYX00/AirBnB-mobile)  | [Demo](https://infinityx00.github.io/AirBnB-mobile/)      | HTML, CSS                        |
+| Pig Game               | [Github](https://github.com/INFINITYX00/Pig-Game)       | [Demo](https://infinityx00.github.io/Pig-Game/)           | JavaScript                       |
+| Guess My Number        | [Github](https://github.com/INFINITYX00/Guess-My-Number)| [Demo](https://infinityx00.github.io/Guess-My-Number/)    | JavaScript                       |
+| ASTRO IMPACT GAME      | [SCRATCH](https://scratch.mit.edu/projects/881488072 )  | [Demo](https://scratch.mit.edu/projects/881488072)        | SCRATCH                          |
 
 
 
