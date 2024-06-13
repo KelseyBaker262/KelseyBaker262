@@ -45,16 +45,13 @@ because I felt inspired by the possibility to leverage technology for positive c
 <br>
 <h1 align="center">Projects<h1/>
 
+#####
+
 | Project                | Repo                                                    | Page                                                      | Tech Stack                       |
 | ---------------------- | ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------- |
-| Portfolio Website               | [Github](https://github.com/INFINITYX00/Portfolio)      | [Demo](https://stephenwalker.live/)                       | Next.js, React, TypeScript, Tailwind CSS, Sentry        |
-| Eslando - Digital Product Passport      | [Github](https://github.com/INFINITYX00/eslando)  | [Demo](https://eslando.vercel.app/?product=0)        | Next.js, React, JavaScript, Testing Libraries                          |
-| NexID - Digital Product Passport (IN DEVELOPMENT)| [Github](https://github.com/INFINITYX00/NexID)        | [Demo]()                                                  | Next.js, React, JavaScript, SQL, Sentry |
-| Sprout - Parenthood App (IN DEVELOPMENT)| [Github](https://github.com/INFINITYX00/Sprout)         | [Demo]()                                                  | Next.js, React, JavaScript, SQL, Testing Libraries |
-| Airbnb Mobile Site     | [Github](https://github.com/INFINITYX00/AirBnB-mobile)  | [Demo](https://infinityx00.github.io/AirBnB-mobile/)      | HTML, CSS                        |
-| Pig Game               | [Github](https://github.com/INFINITYX00/Pig-Game)       | [Demo](https://infinityx00.github.io/Pig-Game/)           | JavaScript                       |
-| Guess My Number        | [Github](https://github.com/INFINITYX00/Guess-My-Number)| [Demo](https://infinityx00.github.io/Guess-My-Number/)    | JavaScript                       |
-| ASTRO IMPACT GAME      | [SCRATCH](https://scratch.mit.edu/projects/881488072 )  | [Demo](https://scratch.mit.edu/projects/881488072)        | SCRATCH                          |
-
-
-
+| Community Club Scheduling App - <br> Kings Heath Clangers              | [Github](https://github.com/lazycloud0/khc.git)      | [Demo](https://www.kingsheathclangers.me/)                       | Next.js, React, JavaScript, Supabase, Play Wright, Husky, Snyk, Vercel, Jira, Notion, GitHub Flow         |
+| Eco-Leap - In development      | [Github](https://github.com/KelseyBaker262/eco-leap.git)  | [Demo](https://eco-leap.vercel.app/)        | Vite, React, TypeScript, Sass, Husky, Snyk, Vercel, GitHub flow                          |
+| Lost In Nostalgia - <br> Photography E-commerce site-<br> In development | [Github](https://github.com/KelseyBaker262/photography-e-commerce-site.git)        | [Demo]()                                                  | Next.js, JavaScript |
+| Fireplace Palace - <br> SoC Workshop| [Github](https://github.com/SchoolOfCode/bc16-w7d3-workshop-nextjs-boilerplate-week7-room15.git)         | [Demo]()                                                  | Next.js, React, JavaScript |
+| Dad Jokes     | [Github](https://github.com/SchoolOfCode/bc16-w10-typescript-KelseyBaker262.git)  | [Demo]()      | HTML, CSS                        |
+| AirBnb Dupe Task               | [Github](https://github.com/KelseyBaker262/Airbnb-dupe-task.git)       | [Demo]()           | JavaScript                       |
