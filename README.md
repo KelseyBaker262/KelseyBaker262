@@ -1,6 +1,6 @@
 ![image](https://github.com/KelseyBaker262/KelseyBaker262/assets/149110361/f0673f9e-f263-42e2-92b6-7360916c928f)
 
-<h1 align="center">About Me:<h1/>
+<h1 align="center">About Me<h1/>
     
 #####
 
@@ -14,7 +14,13 @@ because I felt inspired by the possibility to leverage technology for positive c
  🗣️ Addicted to podcasts
  🌎 Fun fact: I solo backpacked Central America for 7 months
 
-<h1 align="center">Tools:<h1/>
+<br>
+ <p align="center"> 
+  <a href="https://www.linkedin.com/in/kelsey-baker262/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:kelsey.baker1960@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+<h1 align="center">Tools<h1/>
 
 <h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Languages: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Front-End: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Back-End:</h4>
 <p align="center">
@@ -56,3 +62,10 @@ because I felt inspired by the possibility to leverage technology for positive c
 | Dad Jokes                                     | [Github](https://github.com/SchoolOfCode/bc16-w10-typescript-KelseyBaker262.git) | [Demo]()                                 | A simple web app that displays random dad jokes for entertainment.                                | HTML, CSS                        |
 | AirBnb Dupe Task                              | [Github](https://github.com/KelseyBaker262/Airbnb-dupe-task.git)   | [Demo]()                                 | A task to replicate the core features of the AirBnb website.                                        | JavaScript                       |
 
+<h1 align="center">Stats<h1/>
+<div align="center">
+ <div style="display: flex; justify-content: center; background: linear-gradient(135deg, #3498db, #f1c40f, #2ecc71); padding: 20px;">
+    <a href="https://github.com/KelseyBaker262" style="border: 5px solid transparent; background: linear-gradient(135deg, #3498db, #f1c40f, #2ecc71);"><img src="https://github-readme-stats.vercel.app/api?username=KelseyBaker262&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true" alt="Kelsey's GitHub stats" style="height: 180px; width: auto; border-radius: 10px; margin: 10px;" /></a>
+    <a href="http://www.github.com/KelseyBaker262" style="border: 5px solid transparent; background: linear-gradient(135deg, #3498db, #f1c40f, #2ecc71);"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KelseyBaker262&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="height: 180px; width: auto; border-radius: 10px; margin: 10px;" /></a>
+  </div>
+</div>
