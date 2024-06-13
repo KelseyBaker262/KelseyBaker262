@@ -8,11 +8,15 @@ I am a full stack developer and <a href="https://www.schoolofcode.co.uk/">School
 because I felt inspired by the possibility to leverage technology for positive change. 
 
 <br>I fell in love with the creativity and challenging problem-solving that coding presents. To propel my learning, I enrolled in the School of Code, a software development bootcamp. Currently, I'm self-motivated, enthusiastic and continuing to expand my skills by working on a community club scheduling app for a real-world basketball club, a travel carbon emission calculator and a photography e-commerce site.
-
- 🧠 Currently improving my JavaScript, Typescript, React, Next.js and UX/UI skills
- ✅ 100 days of code challenge complete!
- 🗣️ Addicted to podcasts
- 🌎 Fun fact: I solo backpacked Central America for 7 months
+<br>
+<br>
+ 🧠 Currently improving my JavaScript, Typescript, React, Next.js and UX/UI skills<br>
+ <br>
+ ✅ 100 days of code challenge complete!<br>
+ <br>
+ 🗣️ Addicted to podcasts<br>
+ <br>
+ 🌎 Fun fact: I solo backpacked Central America for 7 months<br>
 
 <br>
  <p align="center"> 
@@ -65,7 +69,7 @@ because I felt inspired by the possibility to leverage technology for positive c
 <h1 align="center">Stats<h1/>
 <div align="center">
  <div style="display: flex; justify-content: center; background: linear-gradient(135deg, #3498db, #f1c40f, #2ecc71); padding: 20px;">
-    <a href="https://github.com/KelseyBaker262" style="border: 5px solid transparent; background: linear-gradient(135deg, #3498db, #f1c40f, #2ecc71);"><img src="https://github-readme-stats.vercel.app/api?username=KelseyBaker262&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true" alt="Kelsey's GitHub stats" style="height: 180px; width: auto; border-radius: 10px; margin: 10px;" /></a>
-    <a href="http://www.github.com/KelseyBaker262" style="border: 5px solid transparent; background: linear-gradient(135deg, #3498db, #f1c40f, #2ecc71);"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KelseyBaker262&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="height: 180px; width: auto; border-radius: 10px; margin: 10px;" /></a>
+    <a href="https://github.com/KelseyBaker262" style="border: 5px solid transparent; background: linear-gradient(135deg, #3498db, #f1c40f, #2ecc71);"><img src="https://github-readme-stats.vercel.app/api?username=KelseyBaker262&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true" alt="Kelsey's GitHub stats" style="height: 150px; width: auto; border-radius: 10px; margin: 10px;" /></a>
+    <a href="http://www.github.com/KelseyBaker262" style="border: 5px solid transparent; background: linear-gradient(135deg, #3498db, #f1c40f, #2ecc71);"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KelseyBaker262&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" style="height: 150px; width: auto; border-radius: 10px; margin: 10px;" /></a>
   </div>
 </div>
